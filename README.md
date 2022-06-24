@@ -1,2 +1,22 @@
-# ai-knn-titanic
-This script is an exemple of the usage of knn algo. It will able to you to build you own script based on this.
+# Knn Algorithm
+
+
+### Exemple of usage of the class
+```py
+params = {} # It's a dict with all the user input
+passengers = [[],[]] # It's a panda data frame
+
+ai = AI({
+  'passengers': passengers,
+  'params': params
+})
+```
+
+### Installation
+Install the app on the server
+```sh
+user@domain:~# git clone https://github.com/inplex-sys/ai-knn-titanic.git
+user@domain:~# cd ./ai-knn-titanic/
+user@domain:~# pip3 install requests
+user@domain:~# python3 ./main.py
+```
