@@ -1,7 +1,5 @@
-# Knn Algorithm
+# Don't Cheat u jerk
 
-
-### Exemple of usage of the class
 ```py
 params = {} # It's a dict with all the user input
 passengers = [[],[]] # It's a panda data frame
