@@ -1,4 +1,4 @@
-# Don't Cheat u jerk
+# BRO, L❤️
 
 ```py
 params = {} # It's a dict with all the user input
