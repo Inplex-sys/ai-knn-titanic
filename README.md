@@ -1,5 +1,3 @@
-# BRO, L❤️
-
 ```py
 params = {} # It's a dict with all the user input
 passengers = [[],[]] # It's a panda data frame
